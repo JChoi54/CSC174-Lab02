@@ -1,21 +1,45 @@
 <!doctype html>
-<html lang="en">
-<head>
-    <meta charset="utf-8">
-    <title>The Pembroke Welsh Corgi</title>
-    <link rel="stylesheet" type="text/css" href="css/styles.css">
-    <link rel="stylesheet" type="text/css" href="css/nav.css">
-</head>
-<body>
 
+<html lang="en">
+
+<head> 
+        <meta charset="utf-8">
+        <title>The Pembroke Welsh Corgi</title>
+        <link rel="stylesheet" type="text/css" href="css/styles.css">
+</head>
+
+<body>
 
 <header>  
 	<h1>the Pembroke Welsh Corgi</h1>  
 	<div>the world’s cutest dog</div>
 </header>
 
-
 <?php include "inc/nav.php"; ?>
+
+<p>
+<div>
+        <p> The Pembroke Welsh Corgi (/ˈkɔːrɡi/; Welsh for &quot;dwarf dog&quot;) is a cattle herding dog breed
+which originated in Pembrokeshire, Wales. It is one of two breeds known as a Welsh Corgi.
+The other is the Cardigan Welsh Corgi, and both descend from the line of northern spitz-
+type dogs (such as the Siberian Husky). Another theory is that Pembrokes are descended
+from the Swedish Vallhunds, which were crossed with the local Welsh herding dogs. The
+Pembroke Welsh Corgi is the younger of the two Corgi breeds and is a separate and
+distinct breed from the Cardigan.</p></div>
+
+<div><p>The corgi is one of the smallest dogs in the Herding Group. Pembroke Welsh Corgis are
+famous as the preferred breed of Queen Elizabeth II, who has owned more than 30 during
+her reign. Although these dogs have been favoured by British royalty for more than seventy
+years, among the British public they have recently fallen into decline in terms of popularity
+and demand. However, they remain very popular in the United States, where cities such as
+New York, Boston, and Los Angeles hold annual &quot;Corgi Meetups,&quot; in which hundreds of
+dogs and their owners congregate to spend the day.</p></div>
+
+<div><p>The Pembroke Welsh Corgi has been ranked 11th in Stanley Coren&#39;s The Intelligence of
+Dogs, which states that it is considered an excellent working dog. According to the
+American Kennel Club, Pembroke Welsh Corgis were ranked 20th most popular breed of
+dog in 2015.</p></div>
+
 
 <article>
     <h2>History of the Breed</h2>
@@ -172,8 +196,6 @@ In many countries, docking has been deemed illegal.</p>
     <h2>Source</h2>
 <a href= "https://en.wikipedia.org/wiki/Pembroke_Welsh_Corgi#Queen_Elizabeth&#39;s_Corgis">wikipedia.org/wiki/Pembroke_Welsh_CorgiQueen_Elizabeth</a>
 </footer>
-
-<?php include "inc/scripts.php"; ?>
 
 </body>
 
