@@ -34,7 +34,7 @@ As the early 20th century dawned, symphony orchestras were larger, better funded
 
 ## Instrumentation
 
-   ![orchestra](/images/concerthall.jpg "Modern orchestra concert hall")
+   ![concert hall](/images/concerthall.jpg "Modern orchestra concert hall")
 
 The typical symphony orchestra consists of four groups of related musical instruments called the woodwinds, brass, percussion, and strings. Other instruments such as the piano and celesta may sometimes be grouped into a fifth section such as a keyboard section or may stand alone, as may the concert harp and electric and electronic instruments. The orchestra, depending on the size, contains almost all of the standard instruments in each group.
 
