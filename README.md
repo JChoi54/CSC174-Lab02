@@ -3,9 +3,9 @@
 # Orchestra
 Instrumental Ensemble
 
-- Orchestra
-- Agatha Christie
-- Corgi
+- [Orchestra](orchestra.php)
+- [Agatha Christie](agatha.php)
+- [Corgi](3.php)
 
 ## About Orchestras
 
