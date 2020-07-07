@@ -6,7 +6,10 @@ An English writer who writes detective novels
 - [Corgi](3.php)
 
 ##Life and career
+
 ![Agatha Christie](/images/agatha.jpg "Figure 1: Agatha Christie")
+
+
 Christie's mother Clara was born in Dublin in 1854 to Lieutenant (later Captain) Frederick Boehmer (91st Regiment of Foot) and his second wife Mary Ann Boehmer née West. Boehmer died aged 49 of bronchitis (although biographers often claim he was killed in a riding accident) in Jersey in April 1863, leaving his widow to raise Clara and her three brothers alone on a meagre income. Two weeks after Boehmer's death, Mary's sister Margaret West married widowed dry goods merchant Nathaniel Frary Miller, a U.S. citizen. To assist Mary financially, the newlyweds agreed to foster nine-year old Clara. The family settled in Timperley, Cheshire. Margaret and Nathaniel had no children together, but Nathaniel had a seventeen-year-old son, Fred Miller, from his previous marriage. Fred was born in New York City and travelled extensively after leaving his Swiss boarding school. He and Clara eventually formed a romantic attachment and were married in St Peter's Church, Notting Hill, in April 1878.
 
 Fred and Clara's first child, Margaret Frary ("Madge"), was born in Torquay in 1879, where the couple were renting lodgings. Their second child, Louis Montant ("Monty"), was born in Morristown, New Jersey, in 1880 while they were making an extended visit to the United States. When Fred's father died in 1869, he left Clara £2000; they used this money to purchase the leasehold of a villa in Torquay named Ashfield in which to raise their family. It was here that their third and final child, Agatha, was born in 1890.
@@ -14,7 +17,10 @@ Fred and Clara's first child, Margaret Frary ("Madge"), was born in Torquay in 1
 Christie was raised in a household with various esoteric beliefs and, like her siblings, believed that her mother Clara was a psychic with the ability of second sight. Christie's sister Madge had been sent to Roedean School in Sussex for her education, but their mother insisted that Christie receive a home education. As a result, her parents were responsible for teaching her to read and write and to master basic arithmetic, a subject she particularly enjoyed. They also taught her music, and she learned to play both the piano and the mandolin. According to one biographer, Clara believed that Christie should not learn to read until she was eight. However, thanks to her own curiosity, Christie taught herself to read much earlier. One of the earliest known photographs of Christie depicts her as a little girl with her first dog, named George Washington by her patriotic father but which she called Tony.
 
 ##Writings
+
 ![Pera Palace Hotel](/images/pera.jpg "Figure 2: Christie's room in Pera Palace Hotel")
+
+
 Miss Jane Marple was introduced in the short-story collection The Thirteen Problems in 1927. Although Christie states that, "Miss Marple was not in any way a picture of my grandmother; she was far more fussy and spinsterish than my grandmother ever was", her autobiography does establish a firm connection between the fictional character and Christie's maternal great-aunt Margaret Miller ("Auntie-Grannie") and her "Ealing cronies". Both Marple and Miller "always expected the worst of everyone and everything, and were, with almost frightening accuracy, usually proved right.":422 Marple appeared in 12 novels and 20 stories.
 
 During the Second World War, Christie wrote two novels, Curtain and Sleeping Murder, intended as the last cases of these two great detectives, Hercule Poirot and Miss Marple. Both books were sealed in a bank vault for over thirty years and were released for publication by Christie only at the end of her life, when she realised that she could not write any more novels. These publications came on the heels of the success of the film version of Murder on the Orient Express in 1974.
